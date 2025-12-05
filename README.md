@@ -5,14 +5,14 @@ This is a basic Playwright test that opens the website, logs in, selects a produ
 
 >>Install Python 3
 >>Install Playwright:
-                          pip install playwright
-                          playwright install
+                          **pip install playwright
+                         **playwright install
 
 >>Make sure all dependencies are installed before running the script.
 
 **How to run the test**
 >>Save the script as test_add_to_cart.py and run:
-                            test_add_to_cart.py
+                            **test_add_to_cart.py
 >>The browser will open and the test will run step by step.
 
 **What the test does**
